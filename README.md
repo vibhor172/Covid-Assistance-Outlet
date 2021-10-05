@@ -6,7 +6,7 @@
 
 
 🟥🟥## **Inspiration**
-<p align='center'><img src = "https://github.com/vibhor172/Covid-Assistance-Outlet/blob/master/public/Snips/Inspiration.jpeg" width = "600" height = "400"/></p>
+<p align='center'><img src = https://peacekeeping.un.org/sites/default/files/styles/1200x500/public/un75_sg_quote_twitter.jpg?itok=GN1QG3Bw width = "600" height = "400"/></p>
 Our inspiration for this project was to help people during the Coronavirus pandemic. People coming together for a cause has always been a powerful tool in the tackling of a problem, we thought to add our contribution to the fight against coronavirus to the best of our abilities.
 
 🟥🟥## **Problem Statements**
