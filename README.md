@@ -44,8 +44,8 @@ The various features of the application that can be utilized by the user are as 
 
 🟡6. **Covid-19 Guidelines** - Here, the user can check for the official guidelines for Covid-19 norms and rules for self-protection and interaction with others.
 
-<img src="ss1.png" width="300"><img src="ss2.png" width="300">
-<img src="ss3.png" width="300"><img src="ss4.png" width="300">
+<img src="ss1.png" width="700">
+<img src="ss2.png" width="300"><img src="ss3.png" width="300"><img src="ss4.png" width="300">
 
 
 
@@ -56,7 +56,7 @@ The various features of the application that can be utilized by the user are as 
 ✅4. Coronasafe API – Resource Availability
  
 ## **Working Screenshot**
-<p align='center'><img src = "CovidAssistanceOutlet.gif" /></p>
+<p align='center'><img src = "CovidAssistanceOutlet.gif" width="700" /></p>
 
 ## Team Members
 
