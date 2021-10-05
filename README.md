@@ -44,7 +44,7 @@ The various features of the application that can be utilized by the user are as 
 
 🟡6. **Covid-19 Guidelines** - Here, the user can check for the official guidelines for Covid-19 norms and rules for self-protection and interaction with others.
 
-<img src="ss1.png" width="400">
+<img src="ss1.png" width="300">
 <img src="ss2.png" width="300"><img src="ss3.png" width="300"><img src="ss4.png" width="300">
 
 
