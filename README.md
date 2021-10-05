@@ -1,9 +1,8 @@
 <h1 align='center'>⚕️⚕️**Covid-Assistance-Outlet**⚕️⚕️</h1>
 
-## Links
+## Link
 
-1. Deployed Link - [Click here](https://unite-d0291.web.app/) 
-2. Working Project Video-[click Here](https://youtu.be/fv_2LjreYQs)
+ Working Project Video-[click Here](https://youtu.be/fv_2LjreYQs)
                                                  <img src="ss0.png" width="900">
 
 
