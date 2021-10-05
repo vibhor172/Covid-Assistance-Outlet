@@ -42,6 +42,8 @@ The various features of the application that can be utilized by the user are as 
 
 🟡6. **Covid-19 Guidelines** - Here, the user can check for the official guidelines for Covid-19 norms and rules for self-protection and interaction with others.
 
+<img src="ss1.png" width="250">
+
 ## **Tech Stack**
 ✅1. React.js – Frontend
 ✅2. Firebase – Backend
