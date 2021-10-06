@@ -57,6 +57,6 @@ The various features of the application that can be utilized by the user are as 
 
 ## Team Members
 
-1. Vibhor Pandey  
-2. Amar Upadhyaya 
+1. Vibhor Pandey  (GitHub Link :- https://github.com/vibhor172)
+2. Amar Upadhyaya (GitHub Link :- https://github.com/amarr002 )
 
