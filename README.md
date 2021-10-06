@@ -15,7 +15,7 @@ Since the second surge in the number of coronavirus cases in India in past month
 - Since the first surge of Covid-19 in India , people have to quarantine themselves for breaking the chain of infection, resulting in people being locked out of many healthcare facilities for self care.
 
 - Granted , there are sites for resource availability but most of these sites fail to cater to a majority of the requests from smaller cities. Most of the people in these cities have to resort to other social media platforms such as twitter, LinkedIn, WhatsApp etc. which often leads to larger response times where speed is critical. We have tried to tackle both of the problems using our Covid resource and healthcare management webapp – ‘Covid-Assistance-Outlet’ .
-
+<hr>
 <h3>🟥🟥## **Introduction**</h3>
 **Covid-Assistance-Outlet** is a covid resource and healthcare management application in which users can enter into the application and can post about available resources or resources needed and get faster response times. The application is based for the purpose of increasing the accessibility of resources and getting people healthcare advice while in home. In this way, we can create a fully functioning community where people can help others in resource procurement, so that it caters to people from all locations , both small and big. Users can post about resource availability and also refer to the pre-existing resources fetched by the Coronasafe API, allowing people both real time updates and feedback.
 
@@ -25,7 +25,7 @@ This application fulfils the following purposes:-
 - Creation of a fully functional community of people ready to help each other’s.
 - Generation of reports which can be used for getting further medical attention both within the application and beyond.
 - Getting presciptions and advice from experts while being safe in your home.
-
+<hr>
 <h3>🟥🟥## **Features**</h3>
 The various features of the application that can be utilized by the user are as follows:
 
@@ -44,14 +44,14 @@ The various features of the application that can be utilized by the user are as 
 <img src="ss1.png" width="300"><img src="ss2.png" width="300">
 <img src="ss3.png" width="300"><img src="ss4.png" width="300">
 
-
+<hr>
 
 <h3>## **Tech Stack**</h3>
 ✅1. React.js – Frontend<br>
 ✅2. Firebase – Backend<br>
 ✅3. Material Ui – Visual Customization<br>
 ✅4. Coronasafe API – Resource Availability
- 
+ <hr>
 ## **Working Screenshot**
 <p align='center'><img src = "CovidAssistanceOutlet.gif" width="700" /></p>
 
