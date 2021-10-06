@@ -1,7 +1,7 @@
 <h1 align='center'>⚕️⚕️**Covid-Assistance-Outlet**⚕️⚕️</h1>
 
 ## Link
-  Working Project Video-[click Here](https://youtu.be/fv_2LjreYQs)
+  Working Project Video-[click Here](https://youtu.be/fv_2LjreYQs)<br><br>
                                               <img src="ss0.png" width="900">
  
                            
