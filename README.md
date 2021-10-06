@@ -2,7 +2,7 @@
 
 ## Link
   Working Project Video-[click Here](https://youtu.be/fv_2LjreYQs)<br><br>
-                                              <img src="ss0.png" width="900">
+                                             <p align='center'> <img src="ss0.png" width="900"></p>
  
                            
 
