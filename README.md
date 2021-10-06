@@ -47,9 +47,9 @@ The various features of the application that can be utilized by the user are as 
 
 
 <h3>## **Tech Stack**</h3>
-✅1. React.js – Frontend
+✅1. React.js – Frontend<br>
 ✅2. Firebase – Backend<br>
-✅3. Material Ui – Visual Customization
+✅3. Material Ui – Visual Customization<br>
 ✅4. Coronasafe API – Resource Availability
  
 ## **Working Screenshot**
