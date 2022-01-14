@@ -55,8 +55,5 @@ The various features of the application that can be utilized by the user are as 
 ## **Working Screenshot**
 <p align='center'><img src = "CovidAssistanceOutlet.gif" width="700" /></p>
 
-## Team Members
 
-1. Vibhor Pandey  (GitHub Link :- https://github.com/vibhor172)
-2. Amar Upadhyaya (GitHub Link :- https://github.com/amarr002 )
 
